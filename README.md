@@ -1,5 +1,5 @@
 ## AndroidBackButton
-[Overrides the Android Back Button behavior]
+Overrides the Android Back Button behavior
 
 ## Features
 [feature highlights]
